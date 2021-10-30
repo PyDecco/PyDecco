@@ -10,7 +10,7 @@
 	     width="30px"> 
   <br />
 	Welcome to my profile!
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=pedrollopesb.pedrollopesb" 
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=PyDecco/PyDecco" 
 	     alt="visitors">
 </h1>
        
