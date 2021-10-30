@@ -4,7 +4,15 @@
 	 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 </h1>
 
-
+<h1 align="center">
+  Hi there, i'm Pedro Lucas
+	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+	     width="30px"> 
+  <br />
+	Welcome to my profile!
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=pedrollopesb.pedrollopesb" 
+	     alt="visitors">
+</h1>
        
 <!--
 **PyDecco/PyDecco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
