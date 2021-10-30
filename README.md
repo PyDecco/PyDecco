@@ -1,4 +1,8 @@
-  <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b761151479f6e86dc4d7cd80eb9984a0ce1fdd500dc52&rid=giphy.gif&ct=g">
+<div align="center">
+  <a href="https://github.com/pedrollopesb">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrollopesb&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrollopesb&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
 <!--
 **PyDecco/PyDecco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
